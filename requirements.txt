@@ -1,2 +1,0 @@
-streamlit
-3.  **Despliegue:** Ve a [Streamlit Community Cloud](https://share.streamlit.io/), inicia sesión con tu cuenta de GitHub, selecciona tu repositorio, la rama principal (main) y dile que tu "Main file path" es `app.py`. ¡Y listo!
